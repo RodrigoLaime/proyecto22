@@ -1,11 +1,23 @@
 nav a {
-  font-size: 1.6rem;
+  font-size: 1.3rem;
 }
 
 .container-logo img {
-  width: 300px;
+  width: 320px;
 }
 
-.container-logo img .container-input2 {
-  width: 350px;
+.container-input2 {
+  width: 330px;
+}
+
+.pais a {
+  font-size: 1.3rem;
+}
+
+.container-left a {
+  font-size: 1.3rem;
+}
+
+.container-right a {
+  font-size: 1.3rem;
 }
